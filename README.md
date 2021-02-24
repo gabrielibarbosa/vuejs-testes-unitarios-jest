@@ -1,4 +1,6 @@
-# testing
+# Curso de Vue.js: Testes unitários automatizados com Jest
+Curso da Alura de Vue.js por Marcos Vinicios da Silva Neves.
+https://cursos.alura.com.br/course/vuejs-testes-unitarios-automatizados-jest
 
 ## Setup do Projeto
 ```
